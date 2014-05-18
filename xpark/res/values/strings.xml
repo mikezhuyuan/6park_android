@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">6park</string>
+    <string name="action_refresh">Refresh</string>
+	<string name="news_found">%d条新闻</string>
+</resources>
